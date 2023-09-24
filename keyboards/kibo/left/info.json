@@ -34,10 +34,10 @@
         "matrix_pins": {
             "right": {
                 "direct": [
-                    ["GP22", "GP21", "GP2", "GP5", "GP8", "GP11"],
-                    ["GP20", "GP19", "GP3", "GP6", "GP9", "GP12"],
-                    ["GP18", "GP17", "GP4", "GP7", "GP10", "GP13"],
-                    ["GP15", "GP14", "GP16", null, null, null]
+                    ["GP2", "GP3", "GP15", "GP11", "GP5", "GP4"],
+                    ["GP8", "GP9", "GP14", "GP10", "GP22", "GP20"],
+                    ["GP12", "GP13", "GP7", "GP6", "GP21", "GP19"],
+                    ["GP16", "GP18", "GP17", null, null, null]
                 ]
             }
         }
