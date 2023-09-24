@@ -1,3 +1,20 @@
+# KiBo fork of QMK
+Timon TLDR:
+[Read this](https://docs.qmk.fm/#/newbs_getting_started)
+```
+git clone git@github.com:MaxKiv/qmk_firmware.git
+qmk setup
+
+# For left side
+qmk compile -kb kibo/kiboard/piantor -km default
+# For right side
+qmk compile -kb kibo/kiboard/piantor -km default
+
+qmk flash
+```
+
+Below is the QMK firmware readme
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
