@@ -26,6 +26,7 @@
           nil # nix LSP
           alejandra # nix Formatter
           qmk # cmdline helper tool for qmk
+          keymapviz # Qmk keymap.c visualizer
         ];
       };
 
